@@ -1,0 +1,2 @@
+# Aula5-Python-senai
+COMPARADORES E OPERADORES (PYTHON)
